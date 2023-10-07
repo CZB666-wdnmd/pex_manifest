@@ -13,5 +13,6 @@
   <project path="vendor/xiaomi/equuleus" name="vendor_xiaomi_equuleus" clone-depth="1" remote="equuleus" revision="main" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" clone-depth="1" remote="equuleus" revision="thirteen" />
   <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" clone-depth="1" remote="equuleus" revision="thirteen" />
+  <project path="packages/apps/Pextension" name="Fan-Edition_Settings" remote="equuleus" revision="thunder" />
 
 </manifest>
