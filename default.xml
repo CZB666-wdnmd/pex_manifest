@@ -1212,5 +1212,6 @@
   <include name="snippets/pixel-extras.xml" />
   <include name="snippets/pixel-caf.xml" />
   <include name="snippets/pex.xml" />
+  <include name="snippets/equuleus.xml" />
 
 </manifest>
